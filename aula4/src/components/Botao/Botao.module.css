@@ -1,0 +1,12 @@
+.botao {
+    border: none;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    box-shadow: 3px 3px 3px #ccc;
+    cursor: pointer;
+  }
+  
+  .botao:hover {
+    background-color: limegreen !important;
+  }
